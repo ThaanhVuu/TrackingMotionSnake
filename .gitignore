@@ -1,0 +1,6 @@
+**/dataset/
+**/venv/
+**/input/
+.idea/
+**/*.zip
+**/runs/
